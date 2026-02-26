@@ -1,0 +1,9 @@
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+sqlalchemy==2.0.29
+pydantic==2.6.4
+python-multipart==0.0.9
+pdfminer.six==20221105
+aiofiles==23.2.1
+sentence-transformers==2.7.0
+torch>=2.5.0
