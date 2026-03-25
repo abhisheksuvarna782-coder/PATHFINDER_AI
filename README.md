@@ -1,6 +1,6 @@
 # 🚀 PathFinder AI — Intelligent Campus Placement ERP
 
-AI-powered campus placement management system that matches students with job drives — fairly, transparently, and without any external API.
+AI-powered campus placement management system that matches students with job drives — fairly, transparently, and without any external API
 
 **Team algoRhythmss | Hackathon 2026**
 
