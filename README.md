@@ -16,7 +16,7 @@ AI-powered campus placement management system that matches students with job dri
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+---.
 
 ## 🌐 Live Links
 
