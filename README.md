@@ -6,7 +6,7 @@ AI-powered campus placement management system that matches students with job dri
 
 ---
 
-## 🔗 Quick Access.
+## 🔗 Quick Access
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Frontend-7c3aed?style=for-the-badge)](https://pathfinder-ai-v2.onrender.com)
 [![Backend API](https://img.shields.io/badge/Backend%20API-Swagger%20Docs-06b6d4?style=for-the-badge)](https://pathfinder-ai-09pz.onrender.com/docs)
